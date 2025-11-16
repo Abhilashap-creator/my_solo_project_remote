@@ -7,4 +7,4 @@ Project goals:
 *Understand staging and committing
 *Practice undoing mistakes
 
-
+This project is online
