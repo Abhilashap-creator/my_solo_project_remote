@@ -2,3 +2,4 @@ Temp notes for development
 * Research markdown syntaxfor README
 *Plan the nexrrt feature
 
+Updated directly on git hub interferace
